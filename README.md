@@ -1,0 +1,2 @@
+# django-init
+django init
